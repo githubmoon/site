@@ -156,4 +156,5 @@ $('#newSmore').click(function(){
 $('.newsClose').click(function(){
     $('.newsOpen').hide();
 });
-//20181114测试了github
+//20181114测试了github  
+//zaixian xiugaile 
